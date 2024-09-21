@@ -44,6 +44,8 @@ gem "bootsnap", require: false
 
 gem "responders"
 
+gem "shakapacker", "~> 6.6.0"
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
